@@ -38,6 +38,8 @@ function App() {
         </a>
       </nav>
 
+      {console.log("hello")}
+
       <section className="hero" id="top">
         <div className="hero-copy">
           <div className="eyebrow">
