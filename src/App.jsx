@@ -37,7 +37,6 @@ function App() {
           GitHub
         </a>
       </nav>
-      {console.log("hekkkki")}
 
       <section className="hero" id="top">
         <div className="hero-copy">
